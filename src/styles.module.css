@@ -26,8 +26,9 @@ body {
     padding: 8px 16px;
     background-color: #6c370c;
     color: rgb(241, 233, 233);
-    border: none;
+    border: solid black;
     cursor: pointer;
+    justify-content: center;
   }
   
   .list {
